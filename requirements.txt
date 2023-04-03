@@ -1,0 +1,10 @@
+aiogram
+colorlog
+requests
+APScheduler==3.8.0
+colorama
+typing
+yoomoney
+async_class
+nest-asyncio
+aiohttp
